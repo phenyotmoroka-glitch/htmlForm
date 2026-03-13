@@ -15,14 +15,13 @@ form{
     border-radius: 8px;
 }
 
-/* labels */
+
 label{
     display: block;
     margin-top: 10px;
     font-weight: bold;
 }
 
-/* inputs */
 input{
     width: 100%;
     padding: 7px;
@@ -31,7 +30,7 @@ input{
     border-radius: 4px;
 }
 
-/* buttons */
+
 input[type="submit"], input[type="reset"]{
     margin-top: 12px;
     cursor: pointer;
@@ -51,5 +50,21 @@ input[type="submit"]:hover{
 input[type="reset"]:hover{
     background-color: #555;
 }
+
+fieldset{
+border: 2 px solid #007 bff ;
+6
+padding: 20 px ;
+}
+
+legend {
+color: #007 bff ;
+font - weight : bold ;
+}
+input {
+margin: 5 px ;
+padding: 8 px ;
+}
+
 
 </style>
